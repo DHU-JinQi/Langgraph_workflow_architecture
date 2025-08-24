@@ -2,7 +2,6 @@
 
 一个基于 [LangGraph](https://github.com/langchain-ai/langgraph) 构建的高级工作流系统，实现了复杂的多步骤任务处理和状态管理。
 
-![LangGraph Workflow 架构图]
 <img width="552" height="1172" alt="wf" src="https://github.com/user-attachments/assets/78e6890c-25c9-4f3d-80b5-e1a2ecf1e3b3" />
 
 ## 架构概述
@@ -17,8 +16,6 @@
 ## 视频演示
 
 点击下方视频查看工作流运行演示：
-
-[![LangGraph Workflow 演示视频]
 
 
 https://github.com/user-attachments/assets/9060d97d-501b-4419-9600-5e096d02a5c9
